@@ -1,4 +1,4 @@
-# [Kelly's Blog](https://kellyzhao97.github.io/profolio/) 
+# [Kelly's Blog](https://kellyzhao97.github.io/) 
 
 Student Reporter from HKBU.
 
