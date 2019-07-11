@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin: 40px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    margin: 50px;
+}
+
+h4 {
+    font-size: 11px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.linebox {
+    min-height: 60vh;
+    position: relative;
+    padding: 0 20%;
+}
+
+.reference {
+    font-size: 12px;
+    position: relative;
+    padding: 2% 20% 4% 20%;
+}
+.author {
+    font-size: 15px;
+    position: relative;
+    padding: 2% 20% 4% 20%;
+    line-height: 25px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: right;
+}
+.word {
+    font-size: 18px;
+    font-family: 'Libre Baskerville', serif;
+    min-height: 25vh;
+    position: relative;
+    padding: 0 20%;
+    word-spacing: 30px;
+    line-height: 30px;
+}
+
+.slide {
+    min-height: 40vh;
+    position: relative;
+    padding: 0 20%;
+}
+
+.cNY {
+    min-height: 40vh;
+    position: relative;
+    padding: 0 20%;
+}
+
+.barchart {
+    min-height: 40vh;
+    position: relative;
+    padding: 0 20%;
+}
+
+.mapbox {
+    min-height: 40vh;
+    position: relative;
+    padding: 0 20%;
+}
+
+.myChart {
+    min-height: 40vh;
+    position: relative;
+    padding: 0 20%;
+}
+
+#banner {
+    min-height: 100vh;
+    background: linear-gradient(rgba(61, 61, 61, 0.4), rgba(51, 51, 51, 0.4)), url(header-bg.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-text {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 50px;
+    color: white;
+    text-align: left;
+    position: relative;
+    position: relative;
+    padding: 0 20%;
+}
+
+.banner-text1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 16px;
+    color: rgb(240, 240, 240);
+    position: relative;
+    text-align: left;
+    line-height: 40px;
+    position: relative;
+    padding: 0 20%;
+}
+
+.banner-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.banner-btn button {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 16px;
+    padding: 8px;
+    margin: 26px 16px;
+    background: transparent;
+    color: #000000;
+    border: 2px solid #000000;
+}
+
+.banner-btn button:hover {
+    color: white;
+    border: 4px solid #000000;
+    background: #000000;
+}
+
+.title {
+    margin: 40px 0;
+}
+
+.title-text {
+    text-align: center;
+    font-size: 40px;
+    color: #e0e2db;
+    font-style: italic;
+    text-transform: uppercase;
+}
